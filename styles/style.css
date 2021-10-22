@@ -27,7 +27,7 @@ body {
 
 .container {
     width: 70vw;
-    margin: 8vh auto;
+    margin: 4vh auto;
     border-radius: 20px;
     min-height:30vh;
     background-color: hsl(244, 38%, 16%);
@@ -39,7 +39,7 @@ body {
 
 @media (min-width:1180px) {
     .container {
-        margin: 18vh auto;
+        margin: 10vh auto;
         flex-direction:row-reverse;  
         text-align:left;
     }
@@ -132,7 +132,7 @@ img {
 
 .stat-display {
     width: 70%;
-    margin: 3rem auto;
+    margin: 2rem auto;
     display:flex;
     flex-direction: column;
     align-items: center;
