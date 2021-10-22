@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- [Dolution URL](https://www.frontendmentor.io/solutions/stat-preview-card-component-SOZOL_KIM)
+- [Solution URL](https://www.frontendmentor.io/solutions/stat-preview-card-component-SOZOL_KIM)
 - [Live site URL](https://sypnotick.github.io/Stat-Preview/)
 
 ## My process
