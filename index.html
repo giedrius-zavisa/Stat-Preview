@@ -24,7 +24,17 @@
   <main class="container">
     
     <div class="stat-image">
-      <img src="images/image-header-desktop.jpg" alt="women sitting around a table and smiling">
+      <picture>
+        <source 
+         srcset="./images/image-header-desktop.jpg"
+         media="(min-width: 1180px)"
+        />
+        
+        <img 
+         src="./images/image-header-mobile.jpg"
+         alt="women sitting around a table and smiling"
+         >
+      </picture>      
     </div>
     
 
@@ -57,6 +67,7 @@
           <h2>12m+</h2> 
           <p>queries</p>
         </div>
+        
        </div>
       
     </div>
