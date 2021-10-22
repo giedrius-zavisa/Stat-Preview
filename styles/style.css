@@ -141,7 +141,7 @@ img {
 @media(min-width:1180px){
     .stat-display {
         flex-direction: row;
-        margin: 1rem auto;
+        margin: 1.5rem auto;
     }
 }
 
