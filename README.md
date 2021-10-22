@@ -41,9 +41,9 @@ Users should be able to:
 
 ### What I learned
 
-The second solo project that I undertook. The second project has become much easier to accomplish thanks to my experience from completing the first challenge, but I still 
-understood that there were many ways I could refine my first challenge. During this challenge, I focused not only on completing the challenge but making the code
-more readable, clearer, and maintanable. Furthermore, I deepened my understanding of responsive design and its implementation.
+The second solo project that I undertook. The second challenge has become much easier to accomplish thanks to my experience from completing the first one, but I 
+understood that I could still further refine and improve my code in my first challenge. During this challenge, I focused not only on completing the challenge but making the code
+more readable and maintanable. Furthermore, I deepened my understanding of responsive design and its implementation.
 
 
 ## Author
